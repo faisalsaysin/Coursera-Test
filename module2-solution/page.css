@@ -1,0 +1,140 @@
+body{
+	font-family: cursive;
+	text-align: center;
+}
+@media (max-width: 767px){
+	h1{
+		font-weight: bold;
+		text-align: center;
+		padding-bottom: 100px;
+	}
+	body .block{
+		background-color: #b5b5b1;
+	    box-sizing: border-box;
+	    widows: 100%;
+	    margin: 15px;
+	    padding: 0px 0px 0px 10px;
+	    border: 2px solid;
+	}
+	body div .item1{
+		border-left: 2px solid;
+	    border-bottom: 2px solid;
+	    background-color: #e0afaf;
+	    float: right;
+	    padding: 5px 20px 5px 20px;
+	    text-align: left;
+	    font-weight: bold;
+	}
+	body div .item2{
+		border-left: 2px solid;
+	    border-bottom: 2px solid;
+		background-color: #cf2b2b;
+		float: right;
+	    padding: 5px 20px 5px 20px;
+	    font-weight: bold;
+	}
+	body div .item3{
+		border-left: 2px solid;
+	    border-bottom: 2px solid;
+		background-color: #e6e07e;
+		float: right;
+	    padding: 5px 20px 5px 20px;
+	    font-weight: bold;
+	}
+	body div p{
+		padding-top: 20px;
+		text-align: left;
+	}
+}
+@media (min-width:  768px) and (max-width: 991px){
+	h1{
+		font-weight: bold;
+		text-align: center;
+		padding-bottom: 100px;
+	}
+	body .block{
+		background-color: #b5b5b1;
+	    box-sizing: border-box;
+	    width: 45.6%;
+	    display: inline-block;
+	    margin: 15px;
+	    padding: 0px 0px 0px 10px;
+	    border: 2px solid;
+	}
+	body div .item1{
+		border-left: 2px solid;
+	    border-bottom: 2px solid;
+	    background-color: #e0afaf;
+	    float: right;
+	    padding: 5px 20px 5px 20px;
+	    text-align: left;
+	    font-weight: bold;
+	}
+	body div .item2{
+		border-left: 2px solid;
+	    border-bottom: 2px solid;
+		background-color: #cf2b2b;
+		float: right;
+	    padding: 5px 20px 5px 20px;
+	    font-weight: bold;
+	}
+	body div .item3{
+		border-left: 2px solid;
+	    border-bottom: 2px solid;
+		background-color: #e6e07e;
+		float: right;
+	    padding: 5px 20px 5px 20px;
+	    font-weight: bold;
+	}
+	body div p{
+		padding-top: 20px;
+		text-align: left;
+	}
+	#block3{
+		width: 96%
+	}
+}
+@media (min-width: 992px){
+	h1{
+		font-weight: bold;
+		text-align: center;
+		padding-bottom: 100px;
+	}
+	body .block{
+		background-color: #b5b5b1;
+	    box-sizing: border-box;
+	    width: 29.9%;
+	    display: inline-block;
+	    margin: 15px;
+	    padding: 0px 0px 0px 10px;
+	    border: 2px solid;
+	}
+	body div .item1{
+		border-left: 2px solid;
+	    border-bottom: 2px solid;
+	    background-color: #e0afaf;
+	    float: right;
+	    padding: 5px 20px 5px 20px;
+	    text-align: left;
+	}
+	body div .item2{
+		border-left: 2px solid;
+	    border-bottom: 2px solid;
+		background-color: #cf2b2b;
+		float: right;
+	    padding: 5px 20px 5px 20px;
+	}
+	body div .item3{
+		border-left: 2px solid;
+	    border-bottom: 2px solid;
+		background-color: #e6e07e;
+		float: right;
+	    padding: 5px 20px 5px 20px;
+	}
+	body div p{
+		padding-top: 20px;
+		text-align: left;
+	}
+}
+
+
